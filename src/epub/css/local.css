@@ -5,3 +5,7 @@ span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 }
+
+.signature{
+	font-variant: small-caps;
+}

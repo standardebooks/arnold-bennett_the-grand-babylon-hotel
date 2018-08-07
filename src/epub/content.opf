@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/arnold-bennett/the-grand-babylon-hotel</dc:identifier>
 		<dc:date>2018-07-24T22:23:55Z</dc:date>
-		<meta property="dcterms:modified">2018-08-03T01:22:17Z</meta>
-		<meta property="se:revision-number">2</meta>
+		<meta property="dcterms:modified">2018-08-07T17:37:13Z</meta>
+		<meta property="se:revision-number">3</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -37,7 +37,7 @@
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/2813</meta>
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/2813</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">An American millionaire’s spur-of-the-moment purchase of a hotel leads to the  uncovering of a secret plot.</dc:description>
+		<dc:description id="description">An American millionaire’s spur-of-the-moment purchase of a hotel leads to the uncovering of a secret plot.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;When Theodore Racksole—one of the richest men in America, and consequently the world—sits down in London’s Grand Babylon Hotel and orders a beefsteak and a bottle of beer, he isn’t aware that he’s about to become part of a plot involving blackmail, espionage, murder, the royal families of Europe and his daughter Nella. As he’s sucked in to the inner workings of the hotel and its staff he has to make a series of stark choices for the safety of his family and guests.&lt;/p&gt;

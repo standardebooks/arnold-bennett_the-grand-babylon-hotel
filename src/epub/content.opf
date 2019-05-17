@@ -26,23 +26,24 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Grand Babylon Hotel</dc:title>
 		<meta property="file-as" refines="#title">Grand Babylon Hotel, The</meta>
 		<dc:subject id="subject-1">London (England) -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Americans -- England -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Millionaires -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/2813</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/2813</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/2813</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008106611</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2007100589</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008107169</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">An American millionaire’s spur-of-the-moment purchase of a hotel leads to the uncovering of a secret plot.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;When Theodore Racksole—one of the richest men in America, and consequently the world—sits down in London’s Grand Babylon Hotel and orders a beefsteak and a bottle of beer, he isn’t aware that he’s about to become part of a plot involving blackmail, espionage, murder, the royal families of Europe and his daughter Nella. As he’s sucked in to the inner workings of the hotel and its staff he has to make a series of stark choices for the safety of his family and guests.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Grand Babylon Hotel&lt;/i&gt; proceeds at a pace that betrays the novel’s roots: it was originally serialized in 1901 in the &lt;i&gt;Golden Penny&lt;/i&gt;. It was Arnold Bennett’s second novel, and was followed by at least forty works of fiction along with numerous plays and non-fiction works. Since its original publication &lt;i&gt;The Grand Babylon Hotel&lt;/i&gt; has remained in print, and it has also been adapted for film and radio.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2813</dc:source>
 		<dc:source>https://archive.org/details/grandbabylonhot02benngoog</dc:source>
